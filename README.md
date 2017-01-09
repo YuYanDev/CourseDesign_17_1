@@ -8,7 +8,7 @@
 
 * 1 使用了goto语句。
 * 2 多平台支持。
-* 3 友好的交互界面(命令行)
+* 3 友好的交互界面(命令行环境)
 
 --- 
 
@@ -17,15 +17,21 @@
 | 操作系统        | 系统架构            | 发布版本 | 
 |:--------------:|:------------------:|:-------:|
 | Windows        | i386  X86_64       | V1.0    |
-| Linux          | i386  X86_64 ARMv7 | V1.0    |
+| Linux          | i386  X86_64 ARMv7 |  V1.0   |
 | Mac OS X / BSD | X86_64             | V1.0    |
 | Other          | Source Code        | V1.0    |
 
 ---
 
+# 下载地址
+
+[Release V1.0 ](https://github.com/Alleysakura/CourseDesign_17_1/releases)
+
+--- 
+
 # 使用说明
 
-1. 下载（[下载页面](https://github.com/Alleysakura/CourseDesign_17_1/releases)） 
+1. 下载
 2. 解压 
 3. 切换至文件夹 
 4. 确保和可执行文件的同一文件夹下有info-course.txt和info-student.txt两个文件 
@@ -33,4 +39,4 @@
 
 --- 
 
-LISENCE MIT
+  LISENCE MIT
