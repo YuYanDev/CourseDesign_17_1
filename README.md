@@ -1,6 +1,5 @@
 # 湖北工业大学16计算机a班第二小组程序设计
-# 学生选课系统
-
+# 学生选课系统-CurriculaVariable
 
 --- 
 
@@ -16,8 +15,8 @@
 
 | 操作系统        | 系统架构            | 发布版本 | 
 |:--------------:|:------------------:|:-------:|
+| Linux          | i386  X86_64 ARMv7 | V1.0    |
 | Windows        | i386  X86_64       | V1.0    |
-| Linux          | i386  X86_64 ARMv7 |  V1.0   |
 | Mac OS X / BSD | X86_64             | V1.0    |
 | Other          | Source Code        | V1.0    |
 
@@ -39,4 +38,12 @@
 
 --- 
 
-  LISENCE MIT
+# 预览
+
+![](https://raw.githubusercontent.com/Alleysakura/Image_storage/master/img/menu.png?s=460)
+
+--- 
+
+---
+
+* LISENCE MIT
