@@ -30,11 +30,13 @@
 
 # 使用说明
 
-1. 下载
-2. 解压 
-3. 切换至文件夹 
-4. 确保和可执行文件的同一文件夹下有info-course.txt和info-student.txt两个文件 
-5. 执行CurriculaVariable或CurriculaVariable.exe 
+1. 下载。
+2. 解压。
+3. 切换至文件夹。
+4. 确保和可执行文件的同一文件夹下有info-course.txt和info-student.txt两个文件。
+5. 执行CurriculaVariable或CurriculaVariable.exe。
+
+PS: 教师初始管理密码为: 12345678 (抱歉设置了弱密码Orz)。
 
 --- 
 
@@ -43,6 +45,11 @@
 ![](https://raw.githubusercontent.com/Alleysakura/Image_storage/master/img/menu.png?s=460)
 
 --- 
+
+# 缺点与不足
+
+1. 暂未做到学生登录的口令认证。
+2. 文件读写部分还出现些未重现的Bug。
 
 ---
 
